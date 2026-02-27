@@ -8,4 +8,4 @@ touch setup.py
 touch app.py
 touch research/trials.ipynb
 touch requirements.txt
-echo "Project structure created successfully!"y
+echo "Project structure created successfully!"
